@@ -1,15 +1,20 @@
-## Привет!
+### Привет!
 
-Меня зовут Роберт, я специалист по информационной безопасности
+Я Роберт Лолиашвили, специалист по информационной безопасности
 
-Вот что я умею:
+### Мой стек 
 
-- Pentest. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reverse engineering, IDA Pro, Wireshark, Hashcat, OWASP, AppSec, Pentesting, Kali, Zap, NMap, Hydra, Threat Hunting.
+
+
+### Вот что я умею
+
+- Pentest. https://github.com/Holopinio/sib-27_diplom.git
+- 
+- 
+- 
+- 
+-
+
+### Сертификаты Нетологии
+- Pentest
