@@ -4,7 +4,7 @@
 
 ### Мой стек 
 
-Reverse engineering, IDA Pro, Wireshark, Hashcat, OWASP, AppSec, Pentesting, Kali, Zap, NMap, Hydra, Threat Hunting.
+Reverse engineering, Wireshark, Hashcat, OWASP, AppSec, Pentesting, Kali, Zap, NMap, Hydra, Threat Hunting.
 
 
 ### Вот что я умею
