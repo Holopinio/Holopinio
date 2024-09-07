@@ -11,10 +11,8 @@ Reverse engineering, IDA Pro, Wireshark, Hashcat, OWASP, AppSec, Pentesting, Kal
 
 - Pentest. [Репозиторий с дипломной работой](https://github.com/Holopinio/sib-27_diplom.git)
 - 
-- 
-- 
-- 
 -
 
 ### Сертификаты Нетологии
 - Pentest https://github.com/Holopinio/Holopinio/blob/main/Pentest.pdf
+- GIT https://github.com/Holopinio/Holopinio/blob/main/GIT.pdf
